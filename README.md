@@ -4,4 +4,4 @@ We establish one of the largest virtual reality (VR) videos (typically in the fo
 # Database
 The database and the annotations(MOS, head data and eye data) can be downloaded at the [Baidu Yun](https://pan.baidu.com/s/18XEUNjMrOlIaqA2kQXEZfw?)(Code: Fang).
 # Video Sample
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)]([http://youtu.be/vt5fpE0bzSY](https://youtu.be/pmA9mfVhYSc))
+[![Watch the video](https://youtu.be/pmA9mfVhYSc)
